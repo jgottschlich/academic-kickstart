@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Justin Gottschlich
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Head of Machine Programming Research, Intel Labs
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Intel Labs
   url: ""
+- name: University of Pennsylvania
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Programming (including everything related to programming)
+- Machine Learning (all types)
+- Systems, Hardware / Software Codesign, Compilers
 
 education:
   courses:
