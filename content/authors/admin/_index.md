@@ -29,15 +29,15 @@ interests:
 - Machine Learning (all types)
 - Systems, Hardware / Software Codesign, Compilers
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
+students:
+  student:
+  - student: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
-  - course: MEng in Artificial Intelligence
+  - student: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
-  - course: BSc in Artificial Intelligence
+  - student: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
 
