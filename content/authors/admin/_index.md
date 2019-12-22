@@ -74,6 +74,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I founded and lead the Machine Programming Research group at Intel Labs.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am also Intel's lead principal investigator and co-founder of the joint Intel/NSF CAPA research center on programming for heterogeneous systems. I'm the executive director of AI research and development for the PRECISE Center @ University of Pennsylvania (Penn), where I am also the chair of their industrial research board. I also have an appointment as an adjunct assistant professor @ Penn.
+
+My research is focused on machine programming (MP) which is a fusion of machine learning, programming languages, systems, compilers, software/hardware codesign, and formal methods. I try to maintain deep academic and industrial collaborations. If you'd like to learn more, please see our vision paper (joint with MIT): https://dl.acm.org/citation.cfm?id=3211355
+
+I have around 70 peer reviewed publications and issued patents. I have ~100 patents pending, mostly in the space of AI and MP. I am also the director of Intel's MP intellectual property portfolio.
