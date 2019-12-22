@@ -14,9 +14,12 @@ role: Head of Machine Programming Research, Intel Labs
 
 # Organizations/Affiliations
 organizations:
-- name: Intel Labs
-  url: ""
-- name: University of Pennsylvania
+- name: Chair of Industrial Board and Executive Director at PRECISE, University of Pennsylvania
+  url: "https://precise.seas.upenn.edu/safe-autonomy--industry-advisory-board"
+- name: Steering Committee Chair, ACM SIGPLAN Machine Learning and Programming Languages Workshop
+- name: Principal Investigator and Co-Founder, Intel/NSF CAPA Research Center
+- name: Adjunct Assistant Professor, University of Pennsylvania
+  url: "https://www.seas.upenn.edu/directory/profile.php?ID=333"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
