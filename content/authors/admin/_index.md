@@ -22,7 +22,7 @@ organizations:
   url: "https://www.seas.upenn.edu/directory/profile.php?ID=333"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Head of Machine Programming Research, Intel Labs.
 
 interests:
 - Machine Programming (including everything related to programming)
