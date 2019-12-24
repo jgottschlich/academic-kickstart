@@ -25,9 +25,10 @@ organizations:
 bio: Head of Machine Programming Research, Intel Labs.
 
 interests:
-- Machine Programming (including everything related to programming)
+- Machine Programming
 - Machine Learning (all types)
 - Systems, Hardware / Software Codesign, Compilers
+- Software Engineering
 
 students:
 - Maaz Ahmad
